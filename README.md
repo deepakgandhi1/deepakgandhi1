@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Deepak 👋
 
-<!--
-**deepakgandhi1/deepakgandhi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Tech Lead with 10+ years of experience in full-stack development and product engineering.
+I work mostly with PHP, React, MySQL, and web-based platforms.
 
-Here are some ideas to get you started:
+What I focus on:
+- Building scalable and maintainable web applications
+- Clean backend architecture and APIs
+- Leading teams and reviewing code
+- Improving performance and reliability
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently open to:
+- Tech Lead / Engineering Manager roles
+- Product-focused engineering roles
+- Remote or global opportunities
+
+Links:
+- LinkedIn: https://www.linkedin.com/in/deepak-gandhi-
